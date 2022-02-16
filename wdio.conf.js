@@ -23,8 +23,8 @@ exports.config = {
     specs: [
         //'./test/specs/**/*.js'
         './test/specs/googlesearch.js',
-        //'./test/specs/mainPage.js',
-        //'./test/specs/pagination.js',
+        './test/specs/mainPage.js',
+        './test/specs/pagination.js',
 
     ],
     // Patterns to exclude.
