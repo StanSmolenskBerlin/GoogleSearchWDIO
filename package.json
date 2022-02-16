@@ -1,0 +1,24 @@
+{
+  "name": "wdioappian",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/cli": "^7.16.15",
+    "babel-cli": "^6.26.0",
+    "babel-preset-node6": "^11.0.0"
+  },
+  "devDependencies": {
+    "@wdio/local-runner": "^7.16.15",
+    "@wdio/mocha-framework": "^7.16.15",
+    "@wdio/spec-reporter": "^7.16.14",
+    "chromedriver": "^98.0.0",
+    "wdio-chromedriver-service": "^7.2.8"
+  }
+}
